@@ -2,7 +2,13 @@
 
  Jupyter notebook showing how to estimate face pose detection (which way someone is looking) and categorises it - currently just as looking left, centre or right, and up, level and down.
 
+ Here are a few similarly handsome guys modeling the results
 
+<img src="https://github.com/gulliverhan/head_pose_detection_jupyter_dlib/blob/master/results/right.png"> 
+
+<img src="https://github.com/gulliverhan/head_pose_detection_jupyter_dlib/blob/master/results/up.png"> 
+
+<img src="https://github.com/gulliverhan/head_pose_detection_jupyter_dlib/blob/master/results/brad.png"> 
 
 ## Installation of dependencies on OSX
 
